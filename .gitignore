@@ -1,0 +1,14 @@
+# Office docs (ne ide u repo)
+*.docx
+*.pptx
+*.pdf
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Credentials
+users\ &\ pass.txt
+*pass*
+*.txt
